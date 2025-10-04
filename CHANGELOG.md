@@ -1,5 +1,17 @@
 # Changelog
 
+## [25.38.0](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.37.2...v25.38.0) (2025-10-04)
+
+
+### Features
+
+* **add:** 929004581901 ([#10173](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10173)) ([58420e5](https://github.com/Koenkk/zigbee-herdsman-converters/commit/58420e521b4904096ba88c59a6f1e4a644dd05cd))
+
+
+### Bug Fixes
+
+* Tuya PJ-1203A: revert change of the sign from positive to negative for produced energy value. ([#10172](https://github.com/Koenkk/zigbee-herdsman-converters/issues/10172)) ([ccc65c3](https://github.com/Koenkk/zigbee-herdsman-converters/commit/ccc65c3dc499a4540a4622cc66c120109a61d2f7))
+
 ## [25.37.2](https://github.com/Koenkk/zigbee-herdsman-converters/compare/v25.37.1...v25.37.2) (2025-10-03)
 
 
